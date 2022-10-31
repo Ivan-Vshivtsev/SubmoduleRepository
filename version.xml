@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<VersionInfo>
+	    
+	<Version>v.7.8.1</Version>
+	<BuildDate>2019-11-29 11:16:11</BuildDate>
+	<BuildAgent>Windows #09</BuildAgent>
+	<Link>https://teamcity.playrix.com/viewLog.html?buildId=3139866&amp;buildTypeId=Utils_EffectsEditor_Windows</Link>
+	<Build>527</Build>
+	<Branch>master</Branch>
+	<Revision>438d2cde92c0bea8a80a965078c17a2144d47774</Revision>
+</VersionInfo>
